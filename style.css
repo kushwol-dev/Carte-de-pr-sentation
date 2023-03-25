@@ -19,6 +19,7 @@
 .carte{
     width: 90%;
     max-width: 440px;
+    max-height: 700px;
     color: aliceblue;
     text-align: center;
     padding: 50px 30px;
@@ -30,14 +31,14 @@
 }
 
 .carte img{
-    width: 150px;
+    width: 225px;
     border-radius: 50%;
 }
 
 .carte h2{
-    font-size: 50px;
+    font-size: 45px;
     font-weight: 600px;
-    margin-top: 20px;
+    margin-top: 5px;
 }
 
 .carte p{
@@ -47,10 +48,11 @@
 }
 
 .carte .reseau img{
-    width: 40px;
+    width: 35px;
     border-radius: 50%;
     margin: 10px 5px;
     transition: background 0.5s;
+    background-color: rgb(255, 255, 255);
 }
 
 .carte .reseau img:hover{
