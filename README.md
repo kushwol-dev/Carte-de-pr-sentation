@@ -1,6 +1,6 @@
 # Carte de présentation type carte de visite
 
-## Ce projet est une carte de présentation type carte de visite codée en HTML, CSS et JavaScript. Le but est de fournir une base de départ pour créer sa propre carte de visite en ligne.
+## Ce projet est une carte de présentation type carte de visite de ETC SCHOOL codée en HTML, CSS et JavaScript. Le but est de fournir une base de départ pour créer sa propre carte de visite en ligne.
 
 
 # Contenu
