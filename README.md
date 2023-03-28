@@ -1,11 +1,11 @@
-#Carte de présentation type carte de visite
+# Carte de présentation type carte de visite
 
-##Ce projet est une carte de présentation type carte de visite codée en HTML, CSS et JavaScript. Le but est de fournir une base de départ pour créer sa propre carte de visite en ligne.
+## Ce projet est une carte de présentation type carte de visite codée en HTML, CSS et JavaScript. Le but est de fournir une base de départ pour créer sa propre carte de visite en ligne.
 
 
-#Contenu
+# Contenu
 
-##La carte de visite comprend les éléments suivants :
+## La carte de visite comprend les éléments suivants :
 
 Nom et prénom
 Photo de profil
@@ -18,6 +18,6 @@ Modifiez le fichier HTML pour y inclure vos propres informations
 Personnalisez les styles CSS pour correspondre à votre propre style et préférences
 Utilisez les scripts JavaScript pour ajouter des fonctionnalités supplémentaires si nécessaire
 
-#Auteur
+# Auteur
 
-###Ce projet a été créé par [KushWolf].
+### Ce projet a été créé par [KushWolf].
