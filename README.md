@@ -20,4 +20,3 @@ Utilisez les scripts JavaScript pour ajouter des fonctionnalités supplémentair
 
 # Auteur
 
-### Ce projet a été créé par [KushWolf].
