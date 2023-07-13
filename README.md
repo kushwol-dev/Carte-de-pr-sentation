@@ -18,5 +18,4 @@ Modifiez le fichier HTML pour y inclure vos propres informations
 Personnalisez les styles CSS pour correspondre à votre propre style et préférences
 Utilisez les scripts JavaScript pour ajouter des fonctionnalités supplémentaires si nécessaire
 
-# Auteur
 
